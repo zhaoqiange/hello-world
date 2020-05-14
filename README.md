@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi humans!
+Hubot here,I lile Node.js and coffeescirpt
